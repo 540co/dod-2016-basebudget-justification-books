@@ -29,7 +29,25 @@
       "ARMY_OTHER_1": "http://asafm.army.mil/Documents/OfficeDocuments/Budget/budgetmaterials/fy16/pforms//opa1.pdf",
       "ARMY_OTHER_2": "http://asafm.army.mil/Documents/OfficeDocuments/Budget/budgetmaterials/fy16/pforms//opa2.pdf",
       "ARMY_OTHER_3-4": "http://asafm.army.mil/Documents/OfficeDocuments/Budget/budgetmaterials/fy16/pforms//opa34.pdf",
-      "MDA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/MDA_PROCUREMENT_MasterJustificationBook_Missile_Defense_Agency_PB_2016_1.pdf"
+      "DEFENSE_VOL1_ALL": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/1_PROCUREMENT_MasterJustificationBook_Defense_Wide_PB_2016_Vol_1.pdf",
+      "DEFENSE_CBDP": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Chemical_and_Biological_Defense_Program_PB_2016.pdf",
+      "DEFENSE_DCAA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Contract_Audit_Agency_PB_2016.pdf",
+      "DEFENSE_DCMA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2016.pdf",
+      "DEFENSE_DHRA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_DoD_Human_Resources_Activity_PB_2016.pdf",
+      "DEFENSE_DISA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Information_Systems_Agency_PB_2016.pdf",
+      "DEFENSE_DLA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Logistics_Agency_PB_2016.pdf",
+      "DEFENSE_DMACT": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Media_Activity_PB_2016.pdf",
+      "DEFENSE_DODEA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Department_of_Defense_Education_Activity_PB_2016.pdf",
+      "DEFENSE_DPAP": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Production_Act_Purchases_PB_2016.pdf",
+      "DEFENSE_DSCA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Security_Cooperation_Agency_PB_2016.pdf",
+      "DEFENSE_DSS": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Security_Service_PB_2016.pdf",
+      "DEFENSE_DTRA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Defense_Threat_Reduction_Agency_PB_2016.pdf",
+      "DEFENSE_JUONF": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Joint_Urgent_Operational_Needs_Fund_PB_2016.pdf",
+      "DEFENSE_OSD": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Office_of_Secretary_Of_Defense_PB_2016.pdf",
+      "DEFENSE_TJS": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_The_Joint_Staff_PB_2016.pdf",
+      "DEFENSE_SOCOM": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_United_States_Special_Operations_Command_PB_2016.pdf",
+      "DEFENSE_WHS": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/PROCUREMENT_MasterJustificationBook_Washington_Headquarters_Service_PB_2016.pdf",
+      "DEFENSE_MDA_VOL2": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/02_Procurement/MDA_PROCUREMENT_MasterJustificationBook_Missile_Defense_Agency_PB_2016_1.pdf"
     }
   },
   "RDTE": {
@@ -54,7 +72,21 @@
       "DARPA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf",
       "MDA": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/MDA_RDTE_MasterJustificationBook_Missile_Defense_Agency_PB_2016_1.pdf",
       "OSD": "http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/PB16_OSD_0400D_Master_J-Book_Final.pdf",
-      "CBDP":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Chemical_Biological_Defense_Program_PB_2016.pdf"
+      "CBDP":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Chemical_Biological_Defense_Program_PB_2016.pdf",
+      "VOL5_ALL":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/5_RDTE_MasterJustificationBook_Defense_Wide_PB_2016_Vol_5.pdf",
+      "DCMA":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2016.pdf",
+      "DHRA":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Human_Resources_Activity_PB_2016.pdf",
+      "DISA":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Information_Systems_Agency_PB_2016.pdf",
+      "DLA":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Logistics_Agency_PB_2016.pdf",
+      "DSCA":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Security_Cooperation_Agency_PB_2016.pdf",
+      "DSS":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Security_Service_PB_2016.pdf",
+      "DTIC":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Technical_Information_Center_PB_2016.pdf",
+      "DTRA":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Defense_Threat_Reduction_Agency_PB_2016.pdf",
+      "OTANDE":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Operational_Test_Evaluation_Defense_PB_2016.pdf",
+      "TJS":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Joint_Staff_PB_2016.pdf",
+      "SOCOM":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_United_States_Special_Operations_Command_PB_2016.pdf",
+      "WHS":"http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2016/budget_justification/pdfs/03_RDT_and_E/RDTE_MasterJustificationBook_Washington_Headquarters_Service_PB_2016.pdf"
+      
     }
   }
 }
